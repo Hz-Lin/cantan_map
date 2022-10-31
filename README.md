@@ -1,2 +1,2 @@
-# frontend_learing
-The place I learn HTML, CSS, JS and React
+# cantan map
+the front end of a cantan map generator
